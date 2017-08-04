@@ -1,0 +1,14 @@
+# Git ignore list...
+
+# Compiled code.
+*.o
+*.exe
+*.so
+*.lo
+*.dylib
+*.dSYM
+*.a
+*.la
+
+Makefile
+build/
